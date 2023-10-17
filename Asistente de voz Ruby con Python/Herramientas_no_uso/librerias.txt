@@ -1,0 +1,39 @@
+# import pyttsx3
+# engine = pyttsx3.init()
+# engine.say("hola mundo")
+# engine.runAndWait()
+
+# Comando: pip install SpeechRecognition
+# Comando: pip install pyttsx3
+# Comando: pip install PyAudio
+# Comando: pip install pywhatkit
+# Comando: pip install wikipedia
+# Comando: pip install keyboard
+# Comando: pip install openai
+# Comando: pip install pillow
+# Comando: pip install pyautogui
+# Comando: pip install whisper
+# Comando: pip install pydub
+# Comando: pip install selenium
+# Comando: pip install py-notifier
+# Comando: pip install pandas
+
+# Comando: pip install
+# Comando: pip install
+# Comando: pip install
+
+choco install ffmpeg
+
+
+en powershell para instalar chocolatey
+
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+
+
+
+
+
+pip install virtualenv
+virtualenv <your-env>
+<your-env>\Scripts\activate
+<your-env>\Scripts\pip.exe install google-cloud-speech

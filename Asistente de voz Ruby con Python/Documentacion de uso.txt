@@ -1,0 +1,32 @@
+Para configurar el proyecto:
+
+Ingresar su api-key de openai en la variable  apikey del config y la direccion o ubicacion donde quiere que se gusrden las capturas
+y luego podra correr el proyecto para asi poder usar los comandos.
+
+
+comandos:---------------------
+
+ok Rubí : 
+este comando inicia el proyecto, lo pone en modo escucha para asi poder consultar.
+
+consulta: 
+este comando abre el apartado para poder preguntarle algo y que te responda con claridad, en este apartado es donde se usa la libreria de openai. ojo para salir de este apartado consulta debes decir "esta bien","gracias" o "eso es todo", asi podras volver atras y usar los demas comandos.
+
+reproduce o reproducir:
+estos comandos deben ser mencionados seguidos de un nombre de una cancion, lo que hará es reproducir en youtube la cancion mencionada.
+
+Calcula o calcular:
+te va a calcular cualquier operacion que le menciones pero recuerda debe ser precisa, ejemplo "calcular 2 multiplicado por 2".
+
+como estas: 
+esta es una pregunta directa a el asistente quien responderá de acuerdo a como se sienta.
+
+captura pantalla: 
+este comando hara una captura de pantalla inmediata y la guardará en la ubicacion que hayas puesto en el config.
+
+hora: si le pides la hora te la dará
+
+abre: este comando va seguido del programa que quieres abrir, en este caso se deberia programar mas programas pero hasta ahora solo esta valorant y blog de notas, si dices abre un blog de notas lo hara, este metodo no esta terminado.
+
+
+
